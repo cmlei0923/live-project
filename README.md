@@ -6,6 +6,4 @@
 对了，这个可执行文件执行大概需要十几秒的时间，运行出现黑框请耐心等待，谢谢  
 还请大哥大姐们高抬贵手，如果比较懒的话我们已经将 运行过程gif图 上传到GitHub上了，有需要的可以自取（最下面的个文件）  
 
-链接：https://pan.baidu.com/s/1nNdWz6lni_L8IQw5xXFodQ   
-提取码：vdsi   
-复制这段内容后打开百度网盘手机App，操作更方便哦  
+exe文件下载链接：https://www.lanzous.com/i766zuj
